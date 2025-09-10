@@ -32,7 +32,7 @@ Positive correlation is observed between weekly self-study hours and average sco
 Mathematics and biology scores are most strongly correlated with average performance (r \> 0.85).
 
 +------------------------------------------------------+------------------------------------------------------------+---------------------------------------------------------------+
-| ![Math Score](Math_score.png) | ![Biology Score](Biology_score.png) | ![English Score](English_score.png) \| |
+| ![Math Score](Graphics/Math_score.png) | ![Biology Score](Biology_score.png) | ![English Score](English_score.png) \| |
 +:====================================================:+:==========================================================:+:=============================================================:+
 | Math                                                 | Biology                                                    | English                                                       |
 +------------------------------------------------------+------------------------------------------------------------+---------------------------------------------------------------+

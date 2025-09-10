@@ -1,9 +1,3 @@
----
-title: " Student Performance Analysis Project"
-author: "Arouna Romeo KONE"
-date: "2025-09-10"
-output: html_document
----
 
 ## Project Overview
 

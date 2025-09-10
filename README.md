@@ -32,7 +32,7 @@ Positive correlation is observed between weekly self-study hours and average sco
 Mathematics and biology scores are most strongly correlated with average performance (r \> 0.85).
 
 +------------------------------------------------------+------------------------------------------------------------+---------------------------------------------------------------+
-| ![Math Score](/Users/konearounaromeo/Math_score.png) | ![Biology Score](/Users/konearounaromeo/Biology_score.png) | ![English Score](/Users/konearounaromeo/English_score.png) \| |
+| ![Math Score](Math_score.png) | ![Biology Score](Biology_score.png) | ![English Score](English_score.png) \| |
 +:====================================================:+:==========================================================:+:=============================================================:+
 | Math                                                 | Biology                                                    | English                                                       |
 +------------------------------------------------------+------------------------------------------------------------+---------------------------------------------------------------+
@@ -41,18 +41,18 @@ Mathematics and biology scores are most strongly correlated with average perform
 
 #### Corplot
 
-| ![Heatmap](/Users/konearounaromeo/Corr.png) \|
+| ![Heatmap](Corr.png) \|
 
 #### Corellation with average score
 
-| ![Heatmap](/Users/konearounaromeo/corvsavg.png) \|
+| ![Heatmap](corvsavg.png) \|
 
 ### Bivariate Analysis
 
 #### Quantitative Variables vs Average Score
 
 +----------------------------------------------------------------------+-----------------------------------------------------------------------+
-| ![Study Time vs Average Score](/Users/konearounaromeo/studvsavg.png) | ![Absence Days vs Average Score](/Users/konearounaromeo/absvsavg.png) |
+| ![Study Time vs Average Score](studvsavg.png) | ![Absence Days vs Average Score](absvsavg.png) |
 +:====================================================================:+:=====================================================================:+
 | Study Time                                                           | Absence Days                                                          |
 +----------------------------------------------------------------------+-----------------------------------------------------------------------+
@@ -62,7 +62,7 @@ Mathematics and biology scores are most strongly correlated with average perform
 #### Categorical Variables vs Average Score
 
 +-----------------------------------------------------------------------+-------------------------------------------------------------------------------------+----------------------+
-| ![Part-time Job vs Average Score](/Users/konearounaromeo/ptvsavg.png) | ![Extracurricular Activities vs Average Score](/Users/konearounaromeo/extvsavg.png) |                      |
+| ![Part-time Job vs Average Score](ptvsavg.png) | ![Extracurricular Activities vs Average Score](extvsavg.png) |    ![Career vs Average Score](carvsavg.png) |
 +:=====================================================================:+:===================================================================================:+:====================:+
 | Part-time Job                                                         | Extracurricular Activities                                                          | Career aspiration    |
 +-----------------------------------------------------------------------+-------------------------------------------------------------------------------------+----------------------+
@@ -70,7 +70,7 @@ Mathematics and biology scores are most strongly correlated with average perform
 ## Clustering Analysis
 
 +---------------------------------------------------------------+----------------------------------------------------+
-| ![Optimal number of cluster](/Users/konearounaromeo/opti.png) | ![cluster plot](/Users/konearounaromeo/clplot.png) |
+| ![Optimal number of cluster](opti.png) | ![cluster plot](clplot.png) |
 +:=============================================================:+:==================================================:+
 +---------------------------------------------------------------+----------------------------------------------------+
 
@@ -84,7 +84,9 @@ K-means clustering identified 2 student profiles:
 
 ### Regression Models (Predicting Average Score)
 
-![regression models](/Users/konearounaromeo/regr.png) **Interpretation**:
+![regression models](regr.png) 
+
+**Interpretation**:
 
 -   Tree-based models significantly outperform logistic regression for classification\
 -   XGBoost achieves the best overall performance with 96.8% accuracy\
@@ -92,7 +94,7 @@ K-means clustering identified 2 student profiles:
 
 ### Classification Models (Predicting High Achievers)
 
-![regression models](/Users/konearounaromeo/class.png) **Interpretation**:
+![regression models](class.png) **Interpretation**:
 
 -   Tree-based models significantly outperform logistic regression for classification\
 -   XGBoost achieves the best overall performance with 96.8% accuracy\

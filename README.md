@@ -18,13 +18,13 @@ All subject scores show approximately normal distributions with varying means an
 
 ### Scores Overview
 
-| ![Math Score](02_Graphics/Math_score.png) | ![Biology Score](02_Graphics/Biology_score.png) | ![English Score](02_Graphics/English_score.png) |
+| ![Math Score](03_Graphics/Math_score.png) | ![Biology Score](03_Graphics/Biology_score.png) | ![English Score](03_Graphics/English_score.png) |
 |:---:|:---:|:---:|
 | Math | Biology | English |
 
 ### Correlation Plots
 
-| ![Correlation Heatmap](02_Graphics/Corr.png) | ![Correlation with Average](02_Graphics/corvsavg.png) |
+| ![Correlation Heatmap](03_Graphics/Corr.png) | ![Correlation with Average](03_Graphics/corvsavg.png) |
 |:---:|:---:|
 | Correlation Heatmap | Correlation with Average Score |
 
@@ -32,19 +32,19 @@ All subject scores show approximately normal distributions with varying means an
 
 ### Quantitative Variables vs Average Score
 
-| ![Study Time vs Average Score](02_Graphics/studvsavg.png) | ![Absence Days vs Average Score](02_Graphics/absvsavg.png) |
+| ![Study Time vs Average Score](03_Graphics/studvsavg.png) | ![Absence Days vs Average Score](03_Graphics/absvsavg.png) |
 |:---:|:---:|
 | Study Time | Absence Days |
 
 ### Categorical Variables vs Average Score
 
-| ![Part-time Job vs Average Score](02_Graphics/ptvsavg.png) | ![Extracurricular Activities vs Average Score](02_Graphics/extvsavg.png) | ![Career vs Average Score](02_Graphics/carvsavg.png) |
+| ![Part-time Job vs Average Score](03_Graphics/ptvsavg.png) | ![Extracurricular Activities vs Average Score](03_Graphics/extvsavg.png) | ![Career vs Average Score](03_Graphics/carvsavg.png) |
 |:---:|:---:|:---:|
 | Part-time Job | Extracurricular Activities | Career aspiration |
 
 ## Clustering Analysis
 
-| ![Optimal number of cluster](02_Graphics/opti.png) | ![Cluster plot](02_Graphics/clplot.png) |
+| ![Optimal number of cluster](03_Graphics/opti.png) | ![Cluster plot](03_Graphics/clplot.png) |
 |:---:|:---:|
 | Optimal number of clusters | Cluster plot |
 
@@ -57,7 +57,7 @@ K-means clustering identified 2 student profiles:
 
 ### Regression Models (Predicting Average Score)
 
-| ![Regression Models](02_Graphics/regr.png) |
+| ![Regression Models](03_Graphics/regr.png) |
 |:---:|
 | Regression Models Comparison |
 
@@ -69,7 +69,7 @@ K-means clustering identified 2 student profiles:
 
 ### Classification Models (Predicting High Achievers)
 
-| ![Classification Models](02_Graphics/class.png) |
+| ![Classification Models](03_Graphics/class.png) |
 |:---:|
 | Classification Models Comparison |
 
